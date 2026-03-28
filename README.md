@@ -1,7 +1,7 @@
 
-  # Design Chrome Extension Popup
+  # RealityCheck
 
-  This is a code bundle for Design Chrome Extension Popup. The original project is available at https://www.figma.com/design/WOngRRlB1TJLh444qsrriO/Design-Chrome-Extension-Popup.
+  This is a code bundle for RealityCheck. The original project is available at https://www.figma.com/design/WOngRRlB1TJLh444qsrriO/RealityCheck.
 
   ## Running the code
 
